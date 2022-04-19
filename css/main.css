@@ -1,8 +1,8 @@
 :root {
   /* root color variables */
-  --bright-blue: #007bff;
+  --bright-blue: #5e8068;
   --kaitlyn-green: #5e8068;
-  --body-background: #f6f7fb;
+  --body-background: #f6f6f6;
   --ghost-white: ghostwhite;
   --alice-blue: aliceblue;
   --footer-slate: #e6e8f1;
@@ -125,7 +125,7 @@ h3:after {
 }
 
 .card-action span {
-  color: var(--bright-blue);
+  color: var(--kaitlyn-green);
   border: 1px solid rgba(0, 0, 0, .125);
   background: var(--white);
   padding: 2rem .8rem 1rem;
@@ -239,10 +239,6 @@ h3:after {
 
 .ghost-white {
   color: var(--ghost-white);
-}
-
-.bright-blue {
-  color: var(--bright-blue);
 }
 
 .light-blue {

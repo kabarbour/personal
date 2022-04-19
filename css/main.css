@@ -1,7 +1,7 @@
 :root {
   /* root color variables */
   --bright-blue: #007bff;
-  --nd-blue: #20364c;
+  --kaitlyn-green: #5e8068;
   --body-background: #f6f7fb;
   --ghost-white: ghostwhite;
   --alice-blue: aliceblue;
@@ -14,7 +14,6 @@
   --trench-blue: #406885;
   --light-blue: #d0e9fe;
   --chocolate: rgb(210, 105, 30);
-  --maroon: maroon;
   --lightest-gray: #e9ecef;
 }
 
@@ -36,7 +35,7 @@ p, ul, li, table, tr, td, dd, dt {
 }
 
 h1, h2, h3 {
-  color: var(--maroon) !important;
+  color: var(--kaitlyn-green) !important;
 }
 
 h4, h5, h6 {
@@ -113,7 +112,7 @@ h3:after {
 
 #projects-div .card-body h5 {
   text-align: left;
-  color: var(--maroon) !important;
+  color: var(--kaitlyn-green) !important;
   margin-top: -1rem;
   z-index: 1000;
 }
@@ -272,7 +271,7 @@ h3:after {
 
 /* Navbar -------------------------------------------- */
 .bg-navbar {
-  background: var(--nd-blue);
+  background: var(--kaitlyn-green);
 }
 
 #page-navbar nav {

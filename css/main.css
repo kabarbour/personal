@@ -1,6 +1,6 @@
 :root {
   /* root color variables */
-  --bright-blue: #5e8068;
+  --bright-blue: #007bff;
   --kaitlyn-green: #5e8068;
   --body-background: #f6f6f6;
   --ghost-white: ghostwhite;
@@ -125,7 +125,7 @@ h3:after {
 }
 
 .card-action span {
-  color: var(--kaitlyn-green);
+  color: var(--bright-blue);
   border: 1px solid rgba(0, 0, 0, .125);
   background: var(--white);
   padding: 2rem .8rem 1rem;
@@ -315,7 +315,7 @@ cite {
 }
 
 #back-to-top:hover {
-  background-color: var(--bright-blue);
+  background-color: var(--kaitlyn-green);
   color: var(--white);
 }
 
